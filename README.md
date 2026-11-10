@@ -6,7 +6,7 @@
 
 [Android GitHub releases](https://github.com/TerryClaiborne/AllStarWebTransceiver-Android/releases) · [Windows app on Microsoft Store](https://apps.microsoft.com/detail/9nk9jn5kcq1d?hl=en-US&gl=US)
 
-![AllStar Transceiver on Android](screenshots/android-main.png)
+<a href="screenshots/android-main.png"><img src="screenshots/android-main.png" alt="AllStar Transceiver on Android" width="350"></a>
 
 AllStar Transceiver connects your Android phone to the AllStarLink amateur radio network. It includes Favorites, node/callsign lookup, Connected Nodes, PTT, VOX, audio controls, Activity messages, and background/screen-off session support.
 
