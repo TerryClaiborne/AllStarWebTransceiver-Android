@@ -1,14 +1,35 @@
+
+<div align="center">
+
 # AllStar Transceiver for Android
 
-**Version 1.1**  
-**WT / App Authentication · Direct IAX2 / IAXRpt · Node Mode**  
-**Android 12+ · ARM64 (arm64-v8a)**
+**Native AllStarLink Client for Android — v1.1**
 
-[Android GitHub releases](https://github.com/TerryClaiborne/AllStarWebTransceiver-Android/releases) · [Windows app on Microsoft Store](https://apps.microsoft.com/detail/9nk9jn5kcq1d?hl=en-US&gl=US)
+**WT / App Authentication · Direct IAX2 / IAXRpt · Node Mode**
 
-<a href="screenshots/android-main.png"><img src="screenshots/android-main.png" alt="AllStar Transceiver on Android" width="350"></a>
+**Android 12+ · 64-bit ARM / arm64-v8a**
+
+[⬇ Download the latest Android APK](https://github.com/TerryClaiborne/AllStarWebTransceiver-Android/releases/latest/download/AllStarTransceiver-Android.apk)
+
+[View the latest release and release notes](https://github.com/TerryClaiborne/AllStarWebTransceiver-Android/releases/latest)
+
+Windows version: [Microsoft Store](https://apps.microsoft.com/detail/9NK9JN5KCQ1D)
+
+---
+
+<a href="screenshots/android-main.png">
+  <img src="screenshots/android-main.png" alt="AllStar Transceiver for Android" width="350">
+</a>
+
+*AllStar Transceiver v1.1 — Android main operating screen*
+
+</div>
+
+---
 
 AllStar Transceiver connects your Android phone to the AllStarLink amateur radio network. It includes Favorites, node/callsign lookup, Connected Nodes, PTT, VOX, audio controls, Activity messages, and background/screen-off session support.
+
+
 
 ## Download and install
 
